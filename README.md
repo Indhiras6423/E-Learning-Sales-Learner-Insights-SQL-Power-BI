@@ -34,7 +34,7 @@ The Power BI dashboard includes:
 
 ## Dashboard screenshot
 
-![E-Learning Sales & Learner Insights Dashboard](Screenshot 2026-01-28 231718.png)
+[E-Learning Sales & Learner Insights Dashboard](Screenshot 2026-01-28 231718.png)
 
 
 ## Key Insights
