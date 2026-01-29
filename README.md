@@ -37,7 +37,7 @@ The backend analysis is performed using **MySQL**, while **Power BI** is used to
 ## 📊 Dashboard Preview
 > **Power BI – E-Learning Sales & Learner Insights**
 
-![Dashboard Screenshot]([images/dashboard_preview.png](https://github.com/Indhiras6423/E-Learning-Sales-Learner-Insights-SQL-Power-BI/blob/6deb78bf672f5e3e8a17c2dd533f58b386d3a377/Screenshot%202026-01-28%20231718.png))
+!([images/dashboard_preview.png](https://github.com/Indhiras6423/E-Learning-Sales-Learner-Insights-SQL-Power-BI/blob/6deb78bf672f5e3e8a17c2dd533f58b386d3a377/Screenshot%202026-01-28%20231718.png))
 
 
 ---
