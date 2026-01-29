@@ -1,53 +1,70 @@
-# E-Learning Sales & Learner Insights | SQL & Power BI
+# 📊 E-Learning Sales & Learner Insights Dashboard  
+### 🧠 SQL Analytics | 📈 Power BI Visualization
 
-## Project Overview
-This project analyzes purchase data from an online e-learning platform to understand
-learner behavior, sales trends, and course performance.
+---
 
-MySQL is used for database design and analytical querying, while Power BI is used
-to build an interactive dashboard for visual insights.
+## 🔍 Project Overview
+This project focuses on analyzing **e-learning platform sales data** to uncover meaningful insights into  
+**learner behavior, course performance, and revenue trends**.
 
-## Database Structure
-- learners: learner details and country
-- courses: course information, category, and price
-- purchases: transaction details including quantity and date
+The backend analysis is performed using **MySQL**, while **Power BI** is used to create an interactive and insight-driven dashboard for business decision-making.
 
-## Tools & Technologies
-- MySQL (DDL, DML, JOINs, Aggregations)
-- Power BI (KPIs, Charts, Decomposition Tree, Smart Narrative)
-- SQL (INNER, LEFT, RIGHT JOIN, GROUP BY, HAVING)
+---
 
-## Analysis Performed
-- Learner-wise total spending
-- Top 3 most purchased courses
-- Category-wise revenue and unique learners
-- Identification of multi-category learners
-- Validation of courses with no purchases
+## 🗂️ Database Structure
+- **learners** – learner profile and country details  
+- **courses** – course name, category, and unit price  
+- **purchases** – transaction records (quantity, date, course, learner)
 
-## Dashboard Overview
-The Power BI dashboard includes:
-- Total Revenue KPIs
-- Revenue by Country and Category
-- Course performance analysis
-- Decomposition Tree for revenue drivers
-- AI-assisted insights using Smart Narrative
+---
 
-## Dashboard screenshot
+## 🛠️ Tools & Technologies
+- 🐬 **MySQL** – DDL, DML, JOINs, Aggregations  
+- 📊 **Power BI** – KPI Cards, Charts, Decomposition Tree, Smart Narrative  
+- 🧮 **SQL** – INNER / LEFT / RIGHT JOIN, GROUP BY, HAVING, WHERE  
 
-[E-Learning Sales & Learner Insights Dashboard](Screenshot 2026-01-28 231718.png)
+---
 
+## 📈 Analysis Performed
+✔ Learner-wise total spending analysis  
+✔ Top 3 most purchased courses  
+✔ Category-wise revenue & unique learner count  
+✔ Identification of multi-category learners  
+✔ Validation of courses with no purchases  
 
-## Key Insights
-- Data category generates the highest revenue
-- India is the top contributing country
-- Some learners purchase across multiple categories
-- All courses have recorded purchases
+---
 
-## Business Recommendations
-- Focus on high-performing categories and regions
-- Promote top-selling courses
-- Introduce cross-category bundle offers
+## 📊 Dashboard Preview
+> **Power BI – E-Learning Sales & Learner Insights**
 
-## Author
-Indhira S  
-Aspiring Data Analyst | SQL | Power BI
+![E-Learning Sales & Learner Insights Dashboard](Screenshot 2026-01-28 231718.png)
+
+---
+
+## 🔑 Key Insights
+- 🥇 **Data category** generates the highest revenue  
+- 🌍 **India** is the top contributing country  
+- 🔁 Some learners purchase courses from **multiple categories**  
+- ✅ All available courses have recorded purchases  
+
+---
+
+## 💡 Business Recommendations
+- 🎯 Focus marketing efforts on **high-performing categories**
+- 📢 Promote **top-selling courses** across regions
+- 📦 Introduce **cross-category bundle offers** to increase revenue  
+
+---
+
+## 📁 Repository Contents
+- 📄 `elearning_project.sql` – Database schema & analytical queries  
+- 📊 Power BI dashboard screenshots  
+- 📝 One-page summary report (PDF)  
+
+---
+
+## 👩‍💻 Author
+**Indhira S**  
+Aspiring Data Analyst | SQL | Power BI | Data Visualization  
+
+🔗 *Add GitHub / LinkedIn links here*
